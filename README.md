@@ -28,6 +28,7 @@ O projeto é composto por arquivos `.py` e arquivos auxiliares (como listas de j
 ## 📥 Créditos
 
 O código original foi obtido de um repositório no GitHub, em inglês. A tradução e adaptação foram feitas apenas para fins educacionais.
+Em colaboração com @gerilsonamazonas18-ctrl
 
 ---
 
